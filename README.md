@@ -1,6 +1,6 @@
 # Asphatl 9: Rejends Project
 
-<h3>**Home Page**</h3>
+**<h3>Home Page</h3>**
 
 ![Home Page 1](/Screenshots/Home/Home-Page-1.png)
 ![Home Page 2](/Screenshots/Home/Home-Page-2.png)
